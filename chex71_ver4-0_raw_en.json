@@ -1,0 +1,146 @@
+[
+  {
+    "backcolor": "#ffffff",
+    "name": "chex71_ver3.0_raw_en",
+    "author": "kgnwsknt-chef",
+    "switchMount": "cherry",
+    "switchBrand": "gateron"
+  },
+  [
+    {
+      "c": "#ffffff"
+    },
+    "Esc\n\n\n~ `",
+    "1\n\n\nF1\n\n\n\n\n!",
+    "2\n\n\nF2\n\n\n\n\n@",
+    "3\n\n\nF3\n\n\n\n\n#",
+    "4\n\n\nF4\n\n\n\n\n$",
+    "5\n\n\nF5\n\n\n\n\n%",
+    "6\n\n\nF6\n\n\n\n\n^",
+    "7\n\n\nF7\n\n\n\n\n&",
+    "8\n\n\nF8\n\n\n\n\n*",
+    "9\n\n\nF9\n\n\n\n\n(",
+    "0\n\n\nF10\n\n\n\n\n)",
+    "-\n\n\nF11\n\n\n\n\n_",
+    "+\n\n\nF12\n\n\n\n\n=",
+    {
+      "w": 2
+    },
+    "BS",
+    {
+      "x": 0.5
+    },
+    "Fn",
+    "PgUp\nHome"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "Tab",
+    "Q",
+    "W",
+    "E",
+    "R",
+    "T",
+    "Y",
+    "U",
+    "I",
+    "O",
+    "P",
+    "[\n\n\n\n\n\n\n\n{",
+    "]\n\n\n\n\n\n\n\n}",
+    {
+      "w": 1.5
+    },
+    "\\\n\n\n\n\n\n\n\n|",
+    {
+      "x": 0.5
+    },
+    "Del",
+    "PgDn\nEnd"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "En / Jp",
+    "A\n\n\nins",
+    "S\n\n\nPrSc",
+    "D",
+    "F",
+    "G",
+    "H",
+    "J",
+    "K",
+    "L",
+    ":\n\n\n\n\n\n\n\n;",
+    "\"\n\n\n\n\n\n\n\n'",
+    {
+      "w": 2.25
+    },
+    "Enter"
+  ],
+  [
+    {
+      "w": 2.25
+    },
+    "Shift",
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M",
+    "<\n\n\n\n\n\n\n\n,",
+    ">\n\n\n\n\n\n\n\n.",
+    "/\n\n\n\n\n\n\n\n?",
+    {
+      "w": 1.75
+    },
+    "\n\nShift",
+    {
+      "x": 1.5
+    },
+    "Up"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "w": 1.25
+    },
+    "Win",
+    {
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "a": 7,
+      "w": 6.25
+    },
+    "",
+    {
+      "a": 4,
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "w": 1.25
+    },
+    "Fn",
+    {
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "x": 0.75
+    },
+    "Left",
+    "Down",
+    "Right"
+  ]
+]
